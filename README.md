@@ -1,1 +1,1 @@
-# [ipiao Wiki](/yudapn/ipiao/wiki/app-api/)
+# [ipiao Wiki](/yudapn/ipiao/wiki/app-api)
